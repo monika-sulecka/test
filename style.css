@@ -1,0 +1,20 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: 100%;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #8bc3e4;
+}
+
+.p {
+    color: rgb(136, 73, 196);
+}
